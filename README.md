@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://jeherillajanwar.github.io/"><img src="https://img.shields.io/badge/Dev-Ishaan%20Sharma-brightgreen.svg"></img></a>
+    <a href="https://ishaanSh06.github.io/"><img src="https://img.shields.io/badge/Dev-Ishaan%20Sharma-brightgreen.svg"></img></a>
     <a href="https://choosealicense.com/licenses/bsd-3-clause/"><img src="https://img.shields.io/badge/LICENSE-BSD_3_Clause%20%22New%22%20or%20%22Revised%22%20License-blue.svg"></img></a>
     <a href="mailto:askishaan.sh@gmail.com"><img src="https://img.shields.io/badge/CONTACT_DEV-EMAIL-red"></img></a>
     
@@ -33,7 +33,7 @@
 
 ```bash
 # clone this repo
-$ git clone https://github.com/JeherillaJanwar/ZipLink.git
+$ git clone https://github.com/ishaanSh06/ZipLink.git
 # go to ZipLink dir
 $ cd ZipLink
 # copy .env.template to .env (edit it according to your needs)
@@ -93,7 +93,7 @@ Moreover, you can check out the API documentation <a href="https://ziplink.cleve
 <details>
 <summary>Self Hosting</summary>
 <br>
-To self-host ZipLink, just follow <a href="https://github.com/JeherillaJanwar/ZipLink/blob/main/docs/self_hosting.md">these steps</a>.
+To self-host ZipLink, just follow <a href="https://github.com/ishaanSh06/ZipLink/blob/main/docs/self_hosting.md">these steps</a>.
 
 </details>
 

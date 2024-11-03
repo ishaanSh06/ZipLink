@@ -23,7 +23,7 @@ $ npm install -g npm@latest
 
 ```bash
 # clone this repo
-$ git clone https://github.com/JeherillaJanwar/ZipLink.git
+$ git clone https://github.com/ishaanSh06/ZipLink.git
 # go to ZipLink dir
 $ cd ZipLink
 # copy .env.template to .env (edit it according to your needs)

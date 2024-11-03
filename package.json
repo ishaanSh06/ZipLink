@@ -22,18 +22,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeherillaJanwar/ZipLink.git"
+    "url": "git+https://github.com/ishaanSh06/ZipLink.git"
   },
   "keywords": [
     "url",
     "ZipLink",
-    "JeherillaJanwar",
+    "ishaanSh06",
     "mongoDB"
   ],
-  "author": "Ishaan Sharma (JeherillaJanwar)",
+  "author": "Ishaan Sharma (ishaanSh06)",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/JeherillaJanwar/ZipLink/issues"
+    "url": "https://github.com/ishaanSh06/ZipLink/issues"
   },
   "homepage": "https://ziplink.cleverapps.io"
 }
